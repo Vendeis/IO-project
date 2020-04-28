@@ -1,0 +1,25 @@
+Celem projektu jest przedstawienie oprogramowania ułatwiającego
+wzajemną komunikację nauczycieli, uczniów oraz rodziców.
+
+Diagram czynnosci opisuje usprawiedliwienie nieobecnosci, w przypadku gdy wpłynęło usprawiedliwienie od rodzica.
+
+Diagram klas przedstawia klasy w projekcie oraz zależności między nimi np. nauczyciel wpisujący ocenę
+oraz uczeń i rodzic mogący wyświetlić tę ocenę.
+
+Diagram komponentów przedstawia zależności między komponentami - nauczyciel modyfikujący frekwencję
+i rodzic, który widzi wpisane nieobecności.
+
+Diagram kooperacji pokazuje przebieg procesu usprawiedliwiania, rodzic po wyświetleniu nieobecnosci
+pisze wiadomosc do nauczyciela. 
+
+Diagram obiektów obrazuje zbiór obiektów i ich związków w obecnym momencie.
+
+Diagram przebiegu przedstawia przebieg procesu usprawiedliwiania nieobecnosci.
+
+Diagramy przypadków pierwszy pokazuje dodawanie/modyfikowanie oceny przez nauczyciela.
+Drugi ilustruje wyświetlenie ocen i średniej ważonej przez rodzica.
+
+Diagram stanów przedstawia przejścia nieobecności między stanami.
+
+Diagram wdrożenia pokazuje modelową strukturę systemu.
+ 
